@@ -23,3 +23,9 @@ O AgroVision é uma solução de agricultura de precisão desenvolvida para miti
 * **Interface & Visualização:** Streamlit / Power BI
 
 ---
+
+## 🖼️ Apresentação e Documentação do Projeto
+Para acompanhar o design conceitual, telas e pitch desenvolvidos no Canva para a Global Solution, utilize os acessos abaixo:
+
+* 📁 [Baixar Apresentação Completa em PDF](./AgroVision.pdf) *(Arraste seu arquivo PDF para o repositório com este exato nome)*
+* 🔗 [Visualizar Apresentação Interativa no Canva](https://www.canva.com/design/DAHLqParA4k/3UHAriAKTfDecJsaL4FY-w/edit)
